@@ -20,12 +20,20 @@ Route::get('/', 'PagesController@index');
 Auth::routes();
 
 Route::get('profile', 'PagesController@profile');
-Route::get('setting', 'PagesController@setting');
+Route::get('category', 'PagesController@category');
+Route::get('product', 'PagesController@product');
+Route::get('about', 'PagesController@about');
+Route::get('contact', 'PagesController@contact');
+Route::get('login', 'PagesController@login');
+Route::get('register', 'PagesController@register');
+Route::get('sitemap', 'PagesController@sitemap');
+Route::get('checkout', 'PagesController@checkout');
 
 Route::get('/home', 'HomeController@index');
+
+
 Route::get('users/create', ['uses' => 'UsersController@create']);
 Route::post('users', ['uses' => 'UsersController@store']);
-
 Route::get('users', ['uses' => 'UsersController@index']);
 
 // Route::get('users', function () {

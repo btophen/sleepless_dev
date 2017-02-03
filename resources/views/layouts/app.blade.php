@@ -51,10 +51,10 @@
             <li> <a title="US Dollar"><b>$ - US Dollar</b></a> </li>
           </ul>
         </div>
-        <div class="links"> <a href="login.html">Login</a> <a href="register.html">Register</a> <a href="#" id="wishlist-total">Wish List (0)</a> <a href="#">My Account</a> <a href="checkout.html">Checkout</a> </div>
+        <div class="links"> <a href="login">Login</a> <a href="register.html">Register</a> <a href="#" id="wishlist-total">Wish List (0)</a> <a href="#">My Account</a> <a href="checkout.html">Checkout</a> </div>
       </div>
       <section class="hsecond">
-        <div id="logo"><a href="index.html"><img src="image/logo.png" title="Polishop" alt="Polishop" /></a></div>
+        <div id="logo"><a href="/"><img src="image/logo.png" title="Polishop" alt="Polishop" /></a></div>
         <div id="search">
           <div class="button-search"></div>
           <input type="text" name="search" placeholder="Search" value="" />
@@ -68,15 +68,15 @@
             <div class="mini-cart-info">
               <table>
                 <tr>
-                  <td class="image"><a href="product.html"><img src="image/product/lotto-sports-shoes-white-47x47.jpg" alt="Lotto Sports Shoes" title="Lotto Sports Shoes" /></a></td>
-                  <td class="name"><a href="product.html">Lotto Sports Shoes</a></td>
+                  <td class="image"><a href="product"><img src="image/product/lotto-sports-shoes-white-47x47.jpg" alt="Lotto Sports Shoes" title="Lotto Sports Shoes" /></a></td>
+                  <td class="name"><a href="product">Lotto Sports Shoes</a></td>
                   <td class="quantity">x&nbsp;1</td>
                   <td class="total">$589.50</td>
                   <td class="remove"><img src="image/remove-small.png" alt="Remove" title="Remove" /></td>
                 </tr>
                 <tr>
-                  <td class="image"><a href="product.html"><img src="image/product/iphone_1-47x47.jpg" alt="iPhone 4s" title="iPhone 4s" /></a></td>
-                  <td class="name"><a href="product.html">iPhone 4s</a></td>
+                  <td class="image"><a href="product"><img src="image/product/iphone_1-47x47.jpg" alt="iPhone 4s" title="iPhone 4s" /></a></td>
+                  <td class="name"><a href="product">iPhone 4s</a></td>
                   <td class="quantity">x&nbsp;1</td>
                   <td class="total">$120.68</td>
                   <td class="remove"><img src="image/remove-small.png" alt="Remove" title="Remove" /></td>
@@ -103,7 +103,7 @@
                 </tr>
               </table>
             </div>
-            <div class="checkout"><a class="button" href="cart.html">View Cart</a> &nbsp; <a class="button" href="checkout.html">Checkout</a></div>
+            <div class="checkout"><a class="button" href="cart">View Cart</a> &nbsp; <a class="button" href="checkout">Checkout</a></div>
           </div>
         </section>
         <!--Mini Shopping Cart End-->
@@ -112,124 +112,124 @@
       <!--Top Menu(Horizontal Categories) Start-->
       <nav id="menu">
         <ul>
-          <li class="home"><a title="Home" href="index.html"><span>Home</span></a></li>
+          <li class="home"><a title="Home" href="/"><span>Home</span></a></li>
           <li class="categories_hor"><a>Categories</a>
             <div>
-              <div class="column"> <a href="category.html">Electronics</a>
+              <div class="column"> <a href="category">Electronics</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Laptops (0)</a></li>
-                    <li><a href="category.html">Desktops (0)</a></li>
-                    <li><a href="category.html">Components (1)</a></li>
-                    <li><a href="category.html">Software (1)</a></li>
-                    <li><a href="category.html">Phones &amp; PDAs (4)</a></li>
-                    <li><a href="category.html">Cameras (2)</a></li>
+                    <li><a href="category">Laptops (0)</a></li>
+                    <li><a href="category">Desktops (0)</a></li>
+                    <li><a href="category">Components (1)</a></li>
+                    <li><a href="category">Software (1)</a></li>
+                    <li><a href="category">Phones &amp; PDAs (4)</a></li>
+                    <li><a href="category">Cameras (2)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Jewellery</a>
+              <div class="column"> <a href="category">Jewellery</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Children's Jewellery (0)</a></li>
-                    <li><a href="category.html">Men's Jewellery (1)</a></li>
-                    <li><a href="category.html">Women's Jewellery (0)</a></li>
-                    <li><a href="category.html">Sample Test (0)</a></li>
-                    <li><a href="category.html">Sample Test11 (0)</a></li>
-                    <li><a href="category.html">Sample Test12 (0)</a></li>
+                    <li><a href="category">Children's Jewellery (0)</a></li>
+                    <li><a href="category">Men's Jewellery (1)</a></li>
+                    <li><a href="category">Women's Jewellery (0)</a></li>
+                    <li><a href="category">Sample Test (0)</a></li>
+                    <li><a href="category">Sample Test11 (0)</a></li>
+                    <li><a href="category">Sample Test12 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Shoes</a>
+              <div class="column"> <a href="category">Shoes</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Children's Shoes (1)</a></li>
-                    <li><a href="category.html">Men's Shoes (2)</a></li>
-                    <li><a href="category.html">Women's Shoes (1)</a></li>
-                    <li><a href="category.html">Test Sample (0)</a></li>
-                    <li><a href="category.html">Test Sample1 (0)</a></li>
+                    <li><a href="category">Children's Shoes (1)</a></li>
+                    <li><a href="category">Men's Shoes (2)</a></li>
+                    <li><a href="category">Women's Shoes (1)</a></li>
+                    <li><a href="category">Test Sample (0)</a></li>
+                    <li><a href="category">Test Sample1 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Clothing</a>
+              <div class="column"> <a href="category">Clothing</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Men (1)</a></li>
-                    <li><a href="category.html">Women (1)</a></li>
-                    <li><a href="category.html">Boys (0)</a></li>
-                    <li><a href="category.html">Girls (0)</a></li>
-                    <li><a href="category.html">Accessories (0)</a></li>
-                    <li><a href="category.html">Sample Test21 (0)</a></li>
+                    <li><a href="category">Men (1)</a></li>
+                    <li><a href="category">Women (1)</a></li>
+                    <li><a href="category">Boys (0)</a></li>
+                    <li><a href="category">Girls (0)</a></li>
+                    <li><a href="category">Accessories (0)</a></li>
+                    <li><a href="category">Sample Test21 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Kids</a>
+              <div class="column"> <a href="category">Kids</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Toys Kids (0)</a></li>
-                    <li><a href="category.html">Games (1)</a></li>
-                    <li><a href="category.html">Sample Test22 (0)</a></li>
-                    <li><a href="category.html">Sample Test15 (1)</a></li>
-                    <li><a href="category.html">Sample Kids (1)</a></li>
-                    <li><a href="category.html">Sample Test6 (0)</a></li>
+                    <li><a href="category">Toys Kids (0)</a></li>
+                    <li><a href="category">Games (1)</a></li>
+                    <li><a href="category">Sample Test22 (0)</a></li>
+                    <li><a href="category">Sample Test15 (1)</a></li>
+                    <li><a href="category">Sample Kids (1)</a></li>
+                    <li><a href="category">Sample Test6 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Watches</a>
+              <div class="column"> <a href="category">Watches</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Women's Watches (1)</a></li>
-                    <li><a href="category.html">Men's Watches (0)</a></li>
-                    <li><a href="category.html">Children's Watches (1)</a></li>
-                    <li><a href="category.html">Sample16 (0)</a></li>
-                    <li><a href="category.html">Sample17 (0)</a></li>
-                    <li><a href="category.html">test 18 (0)</a></li>
+                    <li><a href="category">Women's Watches (1)</a></li>
+                    <li><a href="category">Men's Watches (0)</a></li>
+                    <li><a href="category">Children's Watches (1)</a></li>
+                    <li><a href="category">Sample16 (0)</a></li>
+                    <li><a href="category">Sample17 (0)</a></li>
+                    <li><a href="category">test 18 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Sports</a>
+              <div class="column"> <a href="category">Sports</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Women's Sports (1)</a></li>
-                    <li><a href="category.html">Children's Sports (0)</a></li>
-                    <li><a href="category.html">Men's Sports (1)</a></li>
-                    <li><a href="category.html">test 7 (0)</a></li>
-                    <li><a href="category.html">Sample 8 (0)</a></li>
-                    <li><a href="category.html">test 9 (0)</a></li>
+                    <li><a href="category">Women's Sports (1)</a></li>
+                    <li><a href="category">Children's Sports (0)</a></li>
+                    <li><a href="category">Men's Sports (1)</a></li>
+                    <li><a href="category">test 7 (0)</a></li>
+                    <li><a href="category">Sample 8 (0)</a></li>
+                    <li><a href="category">test 9 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Health</a>
+              <div class="column"> <a href="category">Health</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Sample Test1 (1)</a></li>
-                    <li><a href="category.html">Sample Test2 (0)</a></li>
-                    <li><a href="category.html">test 20 (0)</a></li>
-                    <li><a href="category.html">test 21 (0)</a></li>
-                    <li><a href="category.html">test 22 (0)</a></li>
+                    <li><a href="category">Sample Test1 (1)</a></li>
+                    <li><a href="category">Sample Test2 (0)</a></li>
+                    <li><a href="category">test 20 (0)</a></li>
+                    <li><a href="category">test 21 (0)</a></li>
+                    <li><a href="category">test 22 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Furniture</a>
+              <div class="column"> <a href="category">Furniture</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Bedrooms Furniture (0)</a></li>
-                    <li><a href="category.html">Kidsrooms furniture (0)</a></li>
-                    <li><a href="category.html">Kitchen Furniture (1)</a></li>
-                    <li><a href="category.html">Showcase Furniture (0)</a></li>
-                    <li><a href="category.html">Table Furniture (1)</a></li>
-                    <li><a href="category.html">Wall Furniture (0)</a></li>
+                    <li><a href="category">Bedrooms Furniture (0)</a></li>
+                    <li><a href="category">Kidsrooms furniture (0)</a></li>
+                    <li><a href="category">Kitchen Furniture (1)</a></li>
+                    <li><a href="category">Showcase Furniture (0)</a></li>
+                    <li><a href="category">Table Furniture (1)</a></li>
+                    <li><a href="category">Wall Furniture (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"><a href="category.html">Books</a>
+              <div class="column"><a href="category">Books</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Audio Books (1)</a></li>
-                    <li><a href="category.html">Comedy Book (1)</a></li>
-                    <li><a href="category.html">Comics Books (0)</a></li>
-                    <li><a href="category.html">Computer Book (1)</a></li>
-                    <li><a href="category.html">Cookies Books (0)</a></li>
-                    <li><a href="category.html">English Books (1)</a></li>
+                    <li><a href="category">Audio Books (1)</a></li>
+                    <li><a href="category">Comedy Book (1)</a></li>
+                    <li><a href="category">Comics Books (0)</a></li>
+                    <li><a href="category">Computer Book (1)</a></li>
+                    <li><a href="category">Cookies Books (0)</a></li>
+                    <li><a href="category">English Books (1)</a></li>
                   </ul>
                 </div>
               </div>
@@ -238,35 +238,35 @@
           <li><a target="_blank" href="#">Headers</a>
             <div>
               <ul>
-                <li><a href="index.html">Header Style 1</a></li>
-                <li><a href="header-footer-2.html">Header Style 2</a></li>
-                <li><a href="header-footer-3.html">Header Style 3</a></li>
+                <li><a href="/">Header Style 1</a></li>
+                <li><a href="header-footer-2">Header Style 2</a></li>
+                <li><a href="header-footer-3">Header Style 3</a></li>
               </ul>
             </div>
           </li>
           <li><a target="_blank" href="#">Menus</a>
             <div>
               <ul>
-                <li><a href="index.html">Horizontal Categories</a></li>
-                <li><a href="header-footer-2.html">Vertical Categories</a></li>
-                <li><a href="header-footer-3.html">Simple Categories</a></li>
+                <li><a href="/">Horizontal Categories</a></li>
+                <li><a href="header-footer-2">Vertical Categories</a></li>
+                <li><a href="header-footer-3">Simple Categories</a></li>
               </ul>
             </div>
           </li>
           <li><a target="_blank" href="#">Sliders</a>
             <div>
               <ul>
-                <li><a href="index.html">Nivo Slider</a></li>
-                <li><a href="header-footer-2.html">Flex Slider</a></li>
+                <li><a href="/">Nivo Slider</a></li>
+                <li><a href="header-footer-2">Flex Slider</a></li>
               </ul>
             </div>
           </li>
           <li><a target="_blank" href="#">Footers</a>
             <div>
               <ul>
-                <li><a href="index.html">Footer Style 1</a></li>
-                <li><a href="header-footer-2.html">Footer Style 2</a></li>
-                <li><a href="header-footer-3.html">Footer Style 3</a></li>
+                <li><a href="/">Footer Style 1</a></li>
+                <li><a href="header-footer-2">Footer Style 2</a></li>
+                <li><a href="header-footer-3">Footer Style 3</a></li>
               </ul>
             </div>
           </li>
@@ -302,14 +302,14 @@
           <li><a>Information</a>
             <div>
               <ul>
-                <li><a href="about-us.html">About Us</a></li>
-                <li><a href="about-us.html">Delivery Information</a></li>
-                <li><a href="about-us.html">Privacy Policy</a></li>
-                <li><a href="elements.html">Elements</a></li>
+                <li><a href="about">About Us</a></li>
+                <li><a href="about">Delivery Information</a></li>
+                <li><a href="about">Privacy Policy</a></li>
+                <li><a href="elements">Elements</a></li>
               </ul>
             </div>
           </li>
-          <li><a href="contact-us.html">Contact Us</a></li>
+          <li><a href="contact">Contact Us</a></li>
         </ul>
       </nav>
       <!--Top Menu(Horizontal Categories) End-->
@@ -318,121 +318,121 @@
         <ul>
           <li class="categories"><a>Categories</a>
             <div>
-              <div class="column"> <a href="category.html">Electronics</a>
+              <div class="column"> <a href="category">Electronics</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Laptops (0)</a></li>
-                    <li><a href="category.html">Desktops (0)</a></li>
-                    <li><a href="category.html">Components (1)</a></li>
-                    <li><a href="category.html">Software (1)</a></li>
-                    <li><a href="category.html">Phones &amp; PDAs (4)</a></li>
-                    <li><a href="category.html">Cameras (2)</a></li>
+                    <li><a href="category">Laptops (0)</a></li>
+                    <li><a href="category">Desktops (0)</a></li>
+                    <li><a href="category">Components (1)</a></li>
+                    <li><a href="category">Software (1)</a></li>
+                    <li><a href="category">Phones &amp; PDAs (4)</a></li>
+                    <li><a href="category">Cameras (2)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Jewellery</a>
+              <div class="column"> <a href="category">Jewellery</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Children's Jewellery (0)</a></li>
-                    <li><a href="category.html">Men's Jewellery (1)</a></li>
-                    <li><a href="category.html">Women's Jewellery (0)</a></li>
-                    <li><a href="category.html">Sample Test (0)</a></li>
-                    <li><a href="category.html">Sample Test11 (0)</a></li>
-                    <li><a href="category.html">Sample Test12 (0)</a></li>
+                    <li><a href="category">Children's Jewellery (0)</a></li>
+                    <li><a href="category">Men's Jewellery (1)</a></li>
+                    <li><a href="category">Women's Jewellery (0)</a></li>
+                    <li><a href="category">Sample Test (0)</a></li>
+                    <li><a href="category">Sample Test11 (0)</a></li>
+                    <li><a href="category">Sample Test12 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Shoes</a>
+              <div class="column"> <a href="category">Shoes</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Children's Shoes (1)</a></li>
-                    <li><a href="category.html">Men's Shoes (2)</a></li>
-                    <li><a href="category.html">Women's Shoes (1)</a></li>
-                    <li><a href="category.html">Test Sample (0)</a></li>
-                    <li><a href="category.html">Test Sample1 (0)</a></li>
+                    <li><a href="category">Children's Shoes (1)</a></li>
+                    <li><a href="category">Men's Shoes (2)</a></li>
+                    <li><a href="category">Women's Shoes (1)</a></li>
+                    <li><a href="category">Test Sample (0)</a></li>
+                    <li><a href="category">Test Sample1 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Clothing</a>
+              <div class="column"> <a href="category">Clothing</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Men (1)</a></li>
-                    <li><a href="category.html">Women (1)</a></li>
-                    <li><a href="category.html">Boys (0)</a></li>
-                    <li><a href="category.html">Girls (0)</a></li>
-                    <li><a href="category.html">Accessories (0)</a></li>
-                    <li><a href="category.html">Sample Test21 (0)</a></li>
+                    <li><a href="category">Men (1)</a></li>
+                    <li><a href="category">Women (1)</a></li>
+                    <li><a href="category">Boys (0)</a></li>
+                    <li><a href="category">Girls (0)</a></li>
+                    <li><a href="category">Accessories (0)</a></li>
+                    <li><a href="category">Sample Test21 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Kids</a>
+              <div class="column"> <a href="category">Kids</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Toys Kids (0)</a></li>
-                    <li><a href="category.html">Games (1)</a></li>
-                    <li><a href="category.html">Sample Test22 (0)</a></li>
-                    <li><a href="category.html">Sample Test15 (1)</a></li>
-                    <li><a href="category.html">Sample Kids (1)</a></li>
-                    <li><a href="category.html">Sample Test6 (0)</a></li>
+                    <li><a href="category">Toys Kids (0)</a></li>
+                    <li><a href="category">Games (1)</a></li>
+                    <li><a href="category">Sample Test22 (0)</a></li>
+                    <li><a href="category">Sample Test15 (1)</a></li>
+                    <li><a href="category">Sample Kids (1)</a></li>
+                    <li><a href="category">Sample Test6 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Watches</a>
+              <div class="column"> <a href="category">Watches</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Women's Watches (1)</a></li>
-                    <li><a href="category.html">Men's Watches (0)</a></li>
-                    <li><a href="category.html">Children's Watches (1)</a></li>
-                    <li><a href="category.html">Sample16 (0)</a></li>
-                    <li><a href="category.html">Sample17 (0)</a></li>
-                    <li><a href="category.html">test 18 (0)</a></li>
+                    <li><a href="category">Women's Watches (1)</a></li>
+                    <li><a href="category">Men's Watches (0)</a></li>
+                    <li><a href="category">Children's Watches (1)</a></li>
+                    <li><a href="category">Sample16 (0)</a></li>
+                    <li><a href="category">Sample17 (0)</a></li>
+                    <li><a href="category">test 18 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Sports</a>
+              <div class="column"> <a href="category">Sports</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Women's Sports (1)</a></li>
-                    <li><a href="category.html">Children's Sports (0)</a></li>
-                    <li><a href="category.html">Men's Sports (1)</a></li>
-                    <li><a href="category.html">test 7 (0)</a></li>
-                    <li><a href="category.html">Sample 8 (0)</a></li>
-                    <li><a href="category.html">test 9 (0)</a></li>
+                    <li><a href="category">Women's Sports (1)</a></li>
+                    <li><a href="category">Children's Sports (0)</a></li>
+                    <li><a href="category">Men's Sports (1)</a></li>
+                    <li><a href="category">test 7 (0)</a></li>
+                    <li><a href="category">Sample 8 (0)</a></li>
+                    <li><a href="category">test 9 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Health</a>
+              <div class="column"> <a href="category">Health</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Sample Test1 (1)</a></li>
-                    <li><a href="category.html">Sample Test2 (0)</a></li>
-                    <li><a href="category.html">test 20 (0)</a></li>
-                    <li><a href="category.html">test 21 (0)</a></li>
-                    <li><a href="category.html">test 22 (0)</a></li>
+                    <li><a href="category">Sample Test1 (1)</a></li>
+                    <li><a href="category">Sample Test2 (0)</a></li>
+                    <li><a href="category">test 20 (0)</a></li>
+                    <li><a href="category">test 21 (0)</a></li>
+                    <li><a href="category">test 22 (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"> <a href="category.html">Furniture</a>
+              <div class="column"> <a href="category">Furniture</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Bedrooms Furniture (0)</a></li>
-                    <li><a href="category.html">Kidsrooms furniture (0)</a></li>
-                    <li><a href="category.html">Kitchen Furniture (1)</a></li>
-                    <li><a href="category.html">Showcase Furniture (0)</a></li>
-                    <li><a href="category.html">Table Furniture (1)</a></li>
-                    <li><a href="category.html">Wall Furniture (0)</a></li>
+                    <li><a href="category">Bedrooms Furniture (0)</a></li>
+                    <li><a href="category">Kidsrooms furniture (0)</a></li>
+                    <li><a href="category">Kitchen Furniture (1)</a></li>
+                    <li><a href="category">Showcase Furniture (0)</a></li>
+                    <li><a href="category">Table Furniture (1)</a></li>
+                    <li><a href="category">Wall Furniture (0)</a></li>
                   </ul>
                 </div>
               </div>
-              <div class="column"><a href="category.html">Books</a>
+              <div class="column"><a href="category">Books</a>
                 <div>
                   <ul>
-                    <li><a href="category.html">Audio Books (1)</a></li>
-                    <li><a href="category.html">Comedy Book (1)</a></li>
-                    <li><a href="category.html">Comics Books (0)</a></li>
-                    <li><a href="category.html">Computer Book (1)</a></li>
-                    <li><a href="category.html">Cookies Books (0)</a></li>
-                    <li><a href="category.html">English Books (1)</a></li>
+                    <li><a href="category">Audio Books (1)</a></li>
+                    <li><a href="category">Comedy Book (1)</a></li>
+                    <li><a href="category">Comics Books (0)</a></li>
+                    <li><a href="category">Computer Book (1)</a></li>
+                    <li><a href="category">Cookies Books (0)</a></li>
+                    <li><a href="category">English Books (1)</a></li>
                   </ul>
                 </div>
               </div>
@@ -488,18 +488,18 @@
       <div class="column">
         <h3>Information</h3>
         <ul>
-          <li><a href="about-us.html">About Us</a></li>
-          <li><a href="about-us.html">Delivery Information</a></li>
-          <li><a href="about-us.html">Privacy Policy</a></li>
-          <li><a href="elements.html">Elements</a></li>
+          <li><a href="about">About Us</a></li>
+          <li><a href="about">Delivery Information</a></li>
+          <li><a href="about">Privacy Policy</a></li>
+          <li><a href="elements">Elements</a></li>
         </ul>
       </div>
       <div class="column">
         <h3>Customer Service</h3>
         <ul>
-          <li><a href="contact-us.html">Contact Us</a></li>
+          <li><a href="contact-us">Contact Us</a></li>
           <li><a href="#">Returns</a></li>
-          <li><a href="sitemap.html">Site Map</a></li>
+          <li><a href="sitemap">Site Map</a></li>
         </ul>
       </div>
       <div class="column">

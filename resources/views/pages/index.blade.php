@@ -29,8 +29,8 @@ $(document).ready(function() {
                 <ul class="slides">
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
-                      <div class="name"><a href="http://localhost/polishop/index.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
+                      <div class="name"><a href="http://localhost/polishop//.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
                       <div class="price"> $589.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -40,8 +40,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/iphone_1-210x210.jpg" alt="iPhone 4s" /></a></div>
-                      <div class="name"><a href="product.html">iPhone 4s</a></div>
+                      <div class="image"><a href="product"><img src="image/product/iphone_1-210x210.jpg" alt="iPhone 4s" /></a></div>
+                      <div class="name"><a href="product">iPhone 4s</a></div>
                       <div class="price"> $120.68 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -52,8 +52,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/apple_cinema_30-210x210.jpg" alt="Apple Cinema 30&quot;" /></a></div>
-                      <div class="name"><a href="product.html">Apple Cinema 30&quot;</a></div>
+                      <div class="image"><a href="product"><img src="image/product/apple_cinema_30-210x210.jpg" alt="Apple Cinema 30&quot;" /></a></div>
+                      <div class="name"><a href="product">Apple Cinema 30&quot;</a></div>
                       <div class="price"> <span class="price-old">$119.50</span><span class="price-new">$107.75</span> </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -63,8 +63,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/sony_vaio_1-210x210.jpg" alt="Friendly Jewelry" /></a></div>
-                      <div class="name"><a href="product.html">Friendly Jewelry</a></div>
+                      <div class="image"><a href="product"><img src="image/product/sony_vaio_1-210x210.jpg" alt="Friendly Jewelry" /></a></div>
+                      <div class="name"><a href="product">Friendly Jewelry</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -74,8 +74,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
-                      <div class="name"><a href="product.html">Jeep-Casual-Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
+                      <div class="name"><a href="product">Jeep-Casual-Shoes</a></div>
                       <div class="price"> $131.25 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -85,8 +85,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/htc_touch_hd_1-210x210.jpg" alt="iPhone 5s" /></a></div>
-                      <div class="name"><a href="product.html">iPhone 5s</a></div>
+                      <div class="image"><a href="product"><img src="image/product/htc_touch_hd_1-210x210.jpg" alt="iPhone 5s" /></a></div>
+                      <div class="name"><a href="product">iPhone 5s</a></div>
                       <div class="price"> $119.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -96,8 +96,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
-                      <div class="name"><a href="product.html">Sunglass</a></div>
+                      <div class="image"><a href="product"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
+                      <div class="name"><a href="product">Sunglass</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -107,8 +107,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/reebok-men-sports-shoes-210x210.jpg" alt="Reebok Men Sports Shoes" /></a></div>
-                      <div class="name"><a href="product.html">Reebok Men Sports Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/reebok-men-sports-shoes-210x210.jpg" alt="Reebok Men Sports Shoes" /></a></div>
+                      <div class="name"><a href="product">Reebok Men Sports Shoes</a></div>
                       <div class="price"> $119.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -118,8 +118,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/samsung_tab_1-210x210.jpg" alt="Eagle Print Top" /></a></div>
-                      <div class="name"><a href="product.html">Eagle Print Top</a></div>
+                      <div class="image"><a href="product"><img src="image/product/samsung_tab_1-210x210.jpg" alt="Eagle Print Top" /></a></div>
+                      <div class="name"><a href="product">Eagle Print Top</a></div>
                       <div class="price"> $236.99 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -129,8 +129,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/nikon_d300_1-210x210.jpg" alt="Nikon D300" /></a></div>
-                      <div class="name"><a href="product.html">Nikon D300</a></div>
+                      <div class="image"><a href="product"><img src="image/product/nikon_d300_1-210x210.jpg" alt="Nikon D300" /></a></div>
+                      <div class="name"><a href="product">Nikon D300</a></div>
                       <div class="price"> $942.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -140,8 +140,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/samsung_syncmaster_941bw-210x210.jpg" alt="Samsung SyncMaster 941BW" /></a></div>
-                      <div class="name"><a href="product.html">Samsung SyncMaster 941BW</a></div>
+                      <div class="image"><a href="product"><img src="image/product/samsung_syncmaster_941bw-210x210.jpg" alt="Samsung SyncMaster 941BW" /></a></div>
+                      <div class="name"><a href="product">Samsung SyncMaster 941BW</a></div>
                       <div class="price"> $237.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -193,8 +193,8 @@ $(document).ready(function() {
                 <ul class="slides">
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/samsung_syncmaster_941bw-210x210.jpg" alt="Samsung SyncMaster 941BW" /></a></div>
-                      <div class="name"><a href="product.html">Samsung SyncMaster 941BW</a></div>
+                      <div class="image"><a href="product"><img src="image/product/samsung_syncmaster_941bw-210x210.jpg" alt="Samsung SyncMaster 941BW" /></a></div>
+                      <div class="name"><a href="product">Samsung SyncMaster 941BW</a></div>
                       <div class="price"> $237.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -204,8 +204,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/nikon_d300_1-210x210.jpg" alt="Nikon D300" /></a></div>
-                      <div class="name"><a href="product.html">Nikon D300</a></div>
+                      <div class="image"><a href="product"><img src="image/product/nikon_d300_1-210x210.jpg" alt="Nikon D300" /></a></div>
+                      <div class="name"><a href="product">Nikon D300</a></div>
                       <div class="price"> $942.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -215,8 +215,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/reebok-men-sports-shoes-210x210.jpg" alt="Reebok Men Sports Shoes" /></a></div>
-                      <div class="name"><a href="product.html">Reebok Men Sports Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/reebok-men-sports-shoes-210x210.jpg" alt="Reebok Men Sports Shoes" /></a></div>
+                      <div class="name"><a href="product">Reebok Men Sports Shoes</a></div>
                       <div class="price"> $119.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -226,8 +226,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
-                      <div class="name"><a href="product.html">Sunglass</a></div>
+                      <div class="image"><a href="product"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
+                      <div class="name"><a href="product">Sunglass</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -237,8 +237,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/samsung_tab_1-210x210.jpg" alt="Eagle Print Top" /></a></div>
-                      <div class="name"><a href="product.html">Eagle Print Top</a></div>
+                      <div class="image"><a href="product"><img src="image/product/samsung_tab_1-210x210.jpg" alt="Eagle Print Top" /></a></div>
+                      <div class="name"><a href="product">Eagle Print Top</a></div>
                       <div class="price"> $236.99 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -248,8 +248,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/iphone_1-210x210.jpg" alt="iPhone 4s" /></a></div>
-                      <div class="name"><a href="product.html">iPhone 4s</a></div>
+                      <div class="image"><a href="product"><img src="image/product/iphone_1-210x210.jpg" alt="iPhone 4s" /></a></div>
+                      <div class="name"><a href="product">iPhone 4s</a></div>
                       <div class="price"> $120.68 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -260,8 +260,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/htc_touch_hd_1-210x210.jpg" alt="iPhone 5s" /></a></div>
-                      <div class="name"><a href="product.html">iPhone 5s</a></div>
+                      <div class="image"><a href="product"><img src="image/product/htc_touch_hd_1-210x210.jpg" alt="iPhone 5s" /></a></div>
+                      <div class="name"><a href="product">iPhone 5s</a></div>
                       <div class="price"> $119.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -271,8 +271,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/apple_cinema_30-210x210.jpg" alt="Apple Cinema 30&quot;" /></a></div>
-                      <div class="name"><a href="product.html">Apple Cinema 30&quot;</a></div>
+                      <div class="image"><a href="product"><img src="image/product/apple_cinema_30-210x210.jpg" alt="Apple Cinema 30&quot;" /></a></div>
+                      <div class="name"><a href="product">Apple Cinema 30&quot;</a></div>
                       <div class="price"> <span class="price-old">$119.50</span><span class="price-new">$107.75</span> </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -282,8 +282,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/sony_vaio_1-210x210.jpg" alt="Friendly Jewelry" /></a></div>
-                      <div class="name"><a href="product.html">Friendly Jewelry</a></div>
+                      <div class="image"><a href="product"><img src="image/product/sony_vaio_1-210x210.jpg" alt="Friendly Jewelry" /></a></div>
+                      <div class="name"><a href="product">Friendly Jewelry</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -293,8 +293,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
-                      <div class="name"><a href="product.html">Jeep-Casual-Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
+                      <div class="name"><a href="product">Jeep-Casual-Shoes</a></div>
                       <div class="price"> $131.25 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -304,8 +304,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
-                      <div class="name"><a href="http://localhost/polishop/index.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
+                      <div class="name"><a href="http://localhost/polishop//.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
                       <div class="price"> $589.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -323,8 +323,8 @@ $(document).ready(function() {
                 <ul class="slides">
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/apple_cinema_30-210x210.jpg" alt="Apple Cinema 30&quot;" /></a></div>
-                      <div class="name"><a href="product.html">Apple Cinema 30&quot;</a></div>
+                      <div class="image"><a href="product"><img src="image/product/apple_cinema_30-210x210.jpg" alt="Apple Cinema 30&quot;" /></a></div>
+                      <div class="name"><a href="product">Apple Cinema 30&quot;</a></div>
                       <div class="price"> <span class="price-old">$119.50</span><span class="price-new">$107.75</span> </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -334,8 +334,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/sony_vaio_1-210x210.jpg" alt="Friendly Jewelry" /></a></div>
-                      <div class="name"><a href="product.html">Friendly Jewelry</a></div>
+                      <div class="image"><a href="product"><img src="image/product/sony_vaio_1-210x210.jpg" alt="Friendly Jewelry" /></a></div>
+                      <div class="name"><a href="product">Friendly Jewelry</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -345,8 +345,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
-                      <div class="name"><a href="product.html">Jeep-Casual-Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
+                      <div class="name"><a href="product">Jeep-Casual-Shoes</a></div>
                       <div class="price"> $131.25 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -356,8 +356,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
-                      <div class="name"><a href="http://localhost/polishop/index.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
+                      <div class="name"><a href="http://localhost/polishop//.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
                       <div class="price"> $589.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -367,8 +367,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
-                      <div class="name"><a href="product.html">Sunglass</a></div>
+                      <div class="image"><a href="product"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
+                      <div class="name"><a href="product">Sunglass</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -386,8 +386,8 @@ $(document).ready(function() {
                 <ul class="slides">
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
-                      <div class="name"><a href="product.html">Jeep-Casual-Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/Jeep-Casual-Shoes-210x210.jpg" alt="Jeep-Casual-Shoes" /></a></div>
+                      <div class="name"><a href="product">Jeep-Casual-Shoes</a></div>
                       <div class="price"> $131.25 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -397,8 +397,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
-                      <div class="name"><a href="http://localhost/polishop/index.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
+                      <div class="image"><a href="product"><img src="image/product/lotto-sports-shoes-white-210x210.jpg" alt="Lotto Sports Shoes" /></a></div>
+                      <div class="name"><a href="http://localhost/polishop//.php?route=product/product&amp;product_id=43">Lotto Sports Shoes</a></div>
                       <div class="price"> $589.50 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -408,8 +408,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
-                      <div class="name"><a href="product.html">Sunglass</a></div>
+                      <div class="image"><a href="product"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
+                      <div class="name"><a href="product">Sunglass</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -419,8 +419,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/samsung_syncmaster_941bw-210x210.jpg" alt="Samsung SyncMaster 941BW" /></a></div>
-                      <div class="name"><a href="product.html">Samsung SyncMaster 941BW</a></div>
+                      <div class="image"><a href="product"><img src="image/product/samsung_syncmaster_941bw-210x210.jpg" alt="Samsung SyncMaster 941BW" /></a></div>
+                      <div class="name"><a href="product">Samsung SyncMaster 941BW</a></div>
                       <div class="price"> $237.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -430,8 +430,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
-                      <div class="name"><a href="product.html">Sunglass</a></div>
+                      <div class="image"><a href="product"><img src="image/product/ipod_touch_1-210x210.jpg" alt="Sunglass" /></a></div>
+                      <div class="name"><a href="product">Sunglass</a></div>
                       <div class="price"> $1,177.00 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
@@ -441,8 +441,8 @@ $(document).ready(function() {
                   </li>
                   <li>
                     <div class="slide-inner">
-                      <div class="image"><a href="product.html"><img src="image/product/samsung_tab_1-210x210.jpg" alt="Eagle Print Top" /></a></div>
-                      <div class="name"><a href="product.html">Eagle Print Top</a></div>
+                      <div class="image"><a href="product"><img src="image/product/samsung_tab_1-210x210.jpg" alt="Eagle Print Top" /></a></div>
+                      <div class="name"><a href="product">Eagle Print Top</a></div>
                       <div class="price"> $236.99 </div>
                       <div class="cart">
                         <input type="button" value="Add to Cart" class="button" />
